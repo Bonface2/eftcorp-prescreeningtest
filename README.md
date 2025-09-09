@@ -1,7 +1,7 @@
 # EFT CORP Pre Screening Test README
 
 To access the deliverables of this test, clone this repository:
- git clone <https://github.com/Bonface2/eftcorptest.git>  
+ git clone <https://github.com/Bonface2/eftcorp-prescreeningtest.git>  
  cd <insert repo-folder path>  
 
 You will find:
